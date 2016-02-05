@@ -1,0 +1,9 @@
+D:\MyProject\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll.config
+D:\MyProject\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.dll
+D:\MyProject\lesson6\LessonProject.Model\bin\Debug\LessonProject.Model.pdb
+D:\MyProject\lesson6\LessonProject.Model\bin\Debug\Ninject.dll
+D:\MyProject\lesson6\LessonProject.Model\bin\Debug\Ninject.pdb
+D:\MyProject\lesson6\LessonProject.Model\bin\Debug\Ninject.xml
+D:\MyProject\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.csprojResolveAssemblyReference.cache
+D:\MyProject\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.dll
+D:\MyProject\lesson6\LessonProject.Model\obj\Debug\LessonProject.Model.pdb

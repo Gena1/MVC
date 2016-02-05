@@ -1,0 +1,8 @@
+D:\MyProject\lesson6\LessonProject.Model\bin\Release\LessonProject.Model.dll.config
+D:\MyProject\lesson6\LessonProject.Model\bin\Release\LessonProject.Model.dll
+D:\MyProject\lesson6\LessonProject.Model\bin\Release\LessonProject.Model.pdb
+D:\MyProject\lesson6\LessonProject.Model\bin\Release\Ninject.dll
+D:\MyProject\lesson6\LessonProject.Model\bin\Release\Ninject.pdb
+D:\MyProject\lesson6\LessonProject.Model\bin\Release\Ninject.xml
+D:\MyProject\lesson6\LessonProject.Model\obj\Release\LessonProject.Model.dll
+D:\MyProject\lesson6\LessonProject.Model\obj\Release\LessonProject.Model.pdb
